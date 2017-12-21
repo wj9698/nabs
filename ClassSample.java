@@ -3,6 +3,6 @@ public satic void main(String[] ar){
 	private Member member;
 	private final Const TEST_CODE;
 	
-	Sysout("test");
+	Sytem.out.println(("test");
 }
 
